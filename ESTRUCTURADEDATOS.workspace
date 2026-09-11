@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ESTRUCTURADEDATOS" Database="" Version="10000">
+  <Project Name="HolaMundo" Path="HolaMundo/HolaMundo.project" Active="No"/>
+  <Project Name="Ejemplo01" Path="Ejemplo1/Ejemplo1.project" Active="No"/>
+  <Project Name="Ejemplo02" Path="Ejemplo2/Ejemplo2.project" Active="No"/>
+  <Project Name="Ejemplo03" Path="Ejempo3/Ejempo3.project" Active="No"/>
+  <Project Name="Ejemplo04" Path="Ejemplo4/Ejemplo4.project" Active="No"/>
+  <Project Name="Ejemplo05" Path="Ejemplo5/Ejemplo5.project" Active="No"/>
+  <Project Name="Ejemplo06" Path="Ejemplo6/Ejemplo6.project" Active="No"/>
+  <Project Name="Ejemplo07" Path="Ejemplo7/Ejemplo7.project" Active="No"/>
+  <Project Name="Ejemplo08" Path="Ejemplo8/Ejemplo8.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="HolaMundo" ConfigName="Debug"/>
+      <Project Name="Ejemplo01" ConfigName="Debug"/>
+      <Project Name="Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Ejemplo06" ConfigName="Debug"/>
+      <Project Name="Ejemplo07" ConfigName="Debug"/>
+      <Project Name="Ejemplo08" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="HolaMundo" ConfigName="Release"/>
+      <Project Name="Ejemplo01" ConfigName="Release"/>
+      <Project Name="Ejemplo02" ConfigName="Release"/>
+      <Project Name="Ejemplo03" ConfigName="Release"/>
+      <Project Name="Ejemplo04" ConfigName="Release"/>
+      <Project Name="Ejemplo05" ConfigName="Release"/>
+      <Project Name="Ejemplo06" ConfigName="Release"/>
+      <Project Name="Ejemplo07" ConfigName="Release"/>
+      <Project Name="Ejemplo08" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
